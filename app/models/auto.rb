@@ -1,3 +1,3 @@
-class Chore < ActiveRecord::Base
+class Auto < ActiveRecord::Base
   # attr_accessible :title, :body
 end
